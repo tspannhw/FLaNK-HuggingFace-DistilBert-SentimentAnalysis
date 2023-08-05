@@ -2,6 +2,7 @@
 Apache NiFi - distilbert-base-uncased-finetuned-sst-2-english
 
 
+https://medium.com/@tspann/no-code-sentiment-analysis-with-hugging-face-and-apache-nifi-for-article-summaries-cf06d1df1283
 
 
 # References
@@ -15,4 +16,3 @@ Apache NiFi - distilbert-base-uncased-finetuned-sst-2-english
 * https://huggingface.co/blog/inference-endpoints-llm
 * https://huggingface.co/blog/os-llms
 * https://huggingface.co/docs/hub/models-libraries
-* 
